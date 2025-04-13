@@ -56,7 +56,8 @@ Democratizar a criação e gestão de eventos online, eliminando barreiras técn
 
 ## 🖼️ Screenshots
 
-*Imagens da plataforma serão adicionadas aqui*
+![image](https://github.com/user-attachments/assets/cd254508-b52d-4c97-a13b-cc8bc20fea22)
+
 
 ## 🌐 Demo ao Vivo
 
